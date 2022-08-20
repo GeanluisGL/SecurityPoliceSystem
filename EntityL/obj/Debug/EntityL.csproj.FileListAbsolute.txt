@@ -1,0 +1,12 @@
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T8- Parcial\Bus2you\EntityL\bin\Debug\EntityL.dll
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T8- Parcial\Bus2you\EntityL\bin\Debug\EntityL.pdb
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T8- Parcial\Bus2you\EntityL\obj\Debug\EntityL.csproj.AssemblyReference.cache
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T8- Parcial\Bus2you\EntityL\obj\Debug\EntityL.csproj.CoreCompileInputs.cache
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T8- Parcial\Bus2you\EntityL\obj\Debug\EntityL.dll
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T8- Parcial\Bus2you\EntityL\obj\Debug\EntityL.pdb
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T8- Parcial\BusCar2Me\EntityL\bin\Debug\EntityL.dll
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T8- Parcial\BusCar2Me\EntityL\bin\Debug\EntityL.pdb
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T8- Parcial\BusCar2Me\EntityL\obj\Debug\EntityL.csproj.AssemblyReference.cache
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T8- Parcial\BusCar2Me\EntityL\obj\Debug\EntityL.csproj.CoreCompileInputs.cache
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T8- Parcial\BusCar2Me\EntityL\obj\Debug\EntityL.dll
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T8- Parcial\BusCar2Me\EntityL\obj\Debug\EntityL.pdb
